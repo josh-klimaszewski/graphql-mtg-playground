@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import ApolloClient from "apollo-boost";
+// import ApolloClient from "apollo-boost";
 
-const client = new ApolloClient({
-  uri: "[Insert URI of GraphQL endpoint]"
-});
+// const client = new ApolloClient({
+//   uri: "[Insert URI of GraphQL endpoint]"
+// });
 
 class App extends Component {
   render() {
